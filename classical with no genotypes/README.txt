@@ -3,4 +3,6 @@ It is not recomended to average simulations here (put Nsimulations=1) since smal
 
 Other Matlab functions are needed to perform the simulation
 
+Logic variables 'showplot' and 'saveplot' allows us to generate and save plots when they are 'true', yet they delay the execution of the simulation.
+
 
